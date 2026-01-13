@@ -1,4 +1,4 @@
-# teamwork5
-
-![cat](cat.png)
-## cute cat
+Feature list:
+1. Developer (style)
+2. JavaScript
+3. Icons
