@@ -3,6 +3,7 @@ This repository is used for the website development
 
 
 Features list:
+
 1. Background
 
 2\. Main page navigation
